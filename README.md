@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Onassis Andrade
+# Olá, eu sou Onassis Andrade
 
 Desenvolvedor fullstack com foco em arquiteturas escaláveis, integração de LLMs e boas práticas de engenharia de software.  
 Gosto de construir soluções completas – do frontend ao backend, passando por mensageria e DevOps.
 
 ---
 
-## 🧠 Minhas stacks
+##  Minhas stacks
 
 ### Frontend Web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -66,4 +66,4 @@ Gosto de construir soluções completas – do frontend ao backend, passando por
 
 ---
 
-⭐️ *Obrigado pela visita!*  
+ *Obrigado pela visita!*  
